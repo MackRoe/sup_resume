@@ -4,6 +4,26 @@ body {
 h1 {
     color: forestgreen;
 }
+h2 {
+    color: #32a852;
+}
 p {
     color: purple;
+    background-color: "yellow"
+}
+.profile-picture {
+    border-color: "green";
+    border-width: thick;
+    border-style: dotted;
+    border-radius: 50%;
+}
+table {
+    width: 75%;
+    align: left;
+}
+th, td {
+
+}
+tr:hover {
+background-color: #000000;
 }
